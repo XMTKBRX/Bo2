@@ -98,18 +98,7 @@
         "creation": "2025-11-17T00:01:06.901Z",
         "lastAccessed": "2025-11-17T00:01:06.901Z"
     }
-]        "value": "100739621%3BT%3A29229504",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-07-29T06:25:06.870Z",
-        "lastAccessed": "2025-07-29T06:25:06.870Z"
-    },
-    {
-        "key": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2883%3Btimestamp%3A1753770268",
-        "domain": "facebook.com",
-        "path": "/",
+]        "path": "/",
         "hostOnly": false,
         "creation": "2025-07-29T06:25:06.870Z",
         "lastAccessed": "2025-07-29T06:25:06.870Z"
